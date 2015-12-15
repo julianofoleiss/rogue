@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="95">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <df root="." name="0">
+      <df name="CACaves">
+        <in>CACaves.c</in>
+        <in>test.c</in>
+      </df>
+      <df name="KeyPress">
+        <in>KeyPress.c</in>
+        <in>color.h</in>
+        <in>test.c</in>
+      </df>
+      <in>caves.c</in>
+      <in>caves.h</in>
+      <in>game.c</in>
+      <in>game.h</in>
+      <in>globals.c</in>
+      <in>level.c</in>
+      <in>level.h</in>
+      <in>monster.c</in>
+      <in>monster.h</in>
+      <in>msgBox.c</in>
+      <in>msgBox.h</in>
+      <in>object.c</in>
+      <in>object.h</in>
+      <in>player.c</in>
+      <in>player.h</in>
+      <in>teleport.c</in>
+      <in>teleport.h</in>
+      <in>test.c</in>
+      <in>utils.c</in>
+      <in>utils.h</in>
+    </df>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceFolderFilter>^(nbproject)$</sourceFolderFilter>
+  <sourceRootList>
+    <Elem>.</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Default" type="0">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>false</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <codeAssistance>
+      </codeAssistance>
+      <makefileType>
+        <makeTool>
+          <buildCommandWorkingDir>.</buildCommandWorkingDir>
+          <buildCommand>${MAKE} -f Makefile</buildCommand>
+          <cleanCommand>${MAKE} -f Makefile clean</cleanCommand>
+          <executablePath></executablePath>
+        </makeTool>
+      </makefileType>
+      <item path="CACaves/CACaves.c" ex="false" tool="0" flavor2="2">
+      </item>
+      <item path="CACaves/test.c" ex="false" tool="0" flavor2="2">
+      </item>
+      <item path="KeyPress/KeyPress.c" ex="false" tool="0" flavor2="2">
+      </item>
+      <item path="KeyPress/color.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="KeyPress/test.c" ex="false" tool="0" flavor2="2">
+      </item>
+      <item path="caves.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="caves.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="game.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="game.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="globals.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="level.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="level.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="monster.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="monster.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="msgBox.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="msgBox.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="object.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="object.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="player.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="player.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="teleport.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="teleport.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="test.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="utils.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="utils.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
